@@ -1,9 +1,0 @@
-{
-    "name": "Remove OpenSSH client",
-    "description": "Find and remove OpenSSH client via Windows Capabilities",
-    "type": "DetectAndRemediate",
-    "version": "1.0.1",
-    "runAsAccountType": "System",
-    "enforceSignatureCheck": false,
-    "runAs32Bit": false
-}
