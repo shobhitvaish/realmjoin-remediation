@@ -6,5 +6,5 @@
     "runAsAccountType": "User",
     "enforceSignatureCheck": false,
     "runAs32Bit": false,
-  "deprecated": false
+  "deprecated": true
 }
